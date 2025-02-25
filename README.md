@@ -9,7 +9,7 @@ This repository contains Python code for data exploration and analysis, focusing
 
 ## File Structure
 
-- **[exploration_analysis.ipynb](exploration_analysis.ipynb)**: Jupyter Notebook containing the code for data exploration and analysis.
+- **[exploration_analysis.ipynb](nutrition-data-set.ipynb)**: Jupyter Notebook containing the code for data exploration and analysis.
 - **[nutrition.csv](/kaggle/input/nutrition/nutrition.csv)**: Dataset used for nutritional analysis.
 
 ## Libraries Used
